@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hamdibenhmida
-- 👀 I’m interested in game development and I have some skills in Front-end web development and image/video editing
-- 🌱 I’m currently studying game development
+- 👋 Hi, I am @hamdibenhmida
+- 👀 I am a game developer passionate about creating immersive and innovative games
+- 🌱 I have bachelor's degree in game development
 - 📫 How to reach me : 
 -   linked in :https://www.linkedin.com/in/hamdibenhmida/
 
